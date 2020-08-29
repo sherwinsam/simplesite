@@ -1,0 +1,108 @@
+a {
+  color: #3282b8;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #2d4059;
+  background-color: #f6f5f5;
+}
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+html {
+  scroll-behavior: smooth;
+}
+span {
+  display: block;
+  float: right;
+}
+h5 {
+  display: inline;
+}
+
+#skills {
+  font-size: 2rem;
+  text-align: center;
+  padding: 40px;
+}
+#contact,
+#about {
+  text-align: center;
+  color: #f6f5f5;
+  background-image: linear-gradient(to right, #6a11cb 0%, #473bf0 100%);
+}
+
+#skills h1 {
+  color: #473bf0;
+  text-decoration: underline;
+  margin-bottom: 3rem;
+}
+#about h2 {
+  margin-bottom: 3rem;
+}
+#skills h4 {
+  line-height: 2.5;
+}
+.bton {
+  margin: 5rem 0 5rem 0;
+  text-align: left;
+}
+.btn-lg {
+  background-color: #473bf0;
+  margin: 2rem 2rem 2rem 0rem;
+  padding-right: 4%;
+  border-radius: 5%;
+  border: none;
+}
+.cn {
+  margin: 2%;
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  font-size: 35px;
+  background-color: #473bf0;
+  border: none;
+}
+.cn:hover,
+.btn-lg:hover,
+a:hover {
+  color: #000000;
+  background-color: #f6f5f5;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.foot {
+  display: block;
+}
+.name {
+  color: #473bf0;
+}
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.nav-item {
+  padding: 0px 18px 0px 18px;
+}
+.nav-item {
+  font-size: 1.25rem;
+}
+.title-img {
+  margin-left: 30px;
+  width: 85%;
+}
+.prg {
+  text-align: left;
+  padding: 2%;
+}
+h4 p {
+  text-align: right;
+}
+.progress {
+  height: 5px;
+}
+.progress-bar {
+  background-color: #473bf0;
+}
